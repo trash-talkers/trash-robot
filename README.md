@@ -13,7 +13,7 @@ It works safely around people, runs a full workday on one charge, and keeps came
 
 | Subsystem | Key parts |
 |---|---|
-| Mobility base | 2× BLDC hub motors, FOC driver, casters |
+| Mobility base | 2× DC hub motors, FOC driver, casters |
 | Navigation | 2D LiDAR, IMU, cliff/ultrasonic sensors — slam_toolbox, robot_localization, Nav2 |
 | Perception | Mast RGB-D + wrist depth camera — detector, 4-class classifier, pickup gate, people tracker |
 | Manipulation | 5-DOF Dynamixel arm, fin-ray gripper — MoveIt 2 |
